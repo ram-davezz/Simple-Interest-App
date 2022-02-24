@@ -1,0 +1,15 @@
+D:\VC++\SimpleInterestApp\SimpleInterestApp\bin\Debug\netstandard2.0\SimpleInterestApp.deps.json
+D:\VC++\SimpleInterestApp\SimpleInterestApp\bin\Debug\netstandard2.0\SimpleInterestApp.dll
+D:\VC++\SimpleInterestApp\SimpleInterestApp\bin\Debug\netstandard2.0\ref\SimpleInterestApp.dll
+D:\VC++\SimpleInterestApp\SimpleInterestApp\bin\Debug\netstandard2.0\SimpleInterestApp.pdb
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.csproj.AssemblyReference.cache
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.AssemblyInfoInputs.cache
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.AssemblyInfo.cs
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.csproj.CoreCompileInputs.cache
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.dll
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\ref\SimpleInterestApp.dll
+D:\VC++\SimpleInterestApp\SimpleInterestApp\obj\Debug\netstandard2.0\SimpleInterestApp.pdb
